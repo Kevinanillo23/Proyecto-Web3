@@ -37,7 +37,7 @@
 Estoy en búsqueda activa de oportunidades como **Junior Full-Stack Developer**. Si te gusta mi trabajo, ¡hablemos!
 
 * **GitHub:** [@Kevinanillo23](https://github.com/Kevinanillo23)
-* **LinkedIn:** [kevin-anillo-coba]https://www.linkedin.com/in/kevin-anillo-coba
+* **LinkedIn:** [kevin-anillo-coba] https://www.linkedin.com/in/kevin-anillo-coba
 
 ---
 _Desarrollado por Kevin Anillo_
