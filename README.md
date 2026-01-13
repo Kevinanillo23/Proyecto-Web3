@@ -1,4 +1,4 @@
-# 🚀 Web3 AI Pro - Plataforma Educativa Full-Stack
+# 🚀 Web3 Nexus - Plataforma Educativa Full-Stack
 
 ¡Bienvenido! Este es mi proyecto principal: una plataforma educativa sobre el ecosistema **Web3 y Criptomonedas**. Es una aplicación Full-Stack que combina una interfaz moderna con un backend seguro y escalable.
 
